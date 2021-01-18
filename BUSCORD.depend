@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1607485109 source:c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\exception.c
+	<stdio.h>
+	<stdarg.h>
+	"genlib.h"
+	"gcalloc.h"
+	"exception.h"
+
+1607479752 c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\genlib.h
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+
+1607485121 c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\gcalloc.h
+
+1607485116 c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\exception.h
+	<setjmp.h>
+	<string.h>
+	"genlib.h"
+
+1607485126 source:c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\genlib.c
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	<stdarg.h>
+	"genlib.h"
+	"gcalloc.h"
+	"exception.h"
+
+1607571358 source:c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\maximo.c
+
+1610628405 source:c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simpio.h"
+	"random.h"
+	"vutil.h"
+
+1607476472 c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\simpio.h
+	"genlib.h"
+
+1607476487 c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\random.h
+	"genlib.h"
+	<stdlib.h>
+
+1610388879 c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\vutil.h
+
+1607485132 source:c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\random.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"genlib.h"
+	"random.h"
+
+1607485140 source:c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\simpio.c
+	<stdio.h>
+	<string.h>
+	"genlib.h"
+	"strlib.h"
+	"simpio.h"
+
+1607481786 c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\strlib.h
+	"genlib.h"
+
+1607485153 source:c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\strlib.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"genlib.h"
+	"strlib.h"
+
+1610388904 source:c:\users\lenovo\onedrive - ufrpe.br\ufrpe\ensino\aed-comum\programas\buscord\vutil.c
+	"random.h"
+	"vutil.h"
+
